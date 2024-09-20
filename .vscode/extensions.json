@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "cmstead.js-codeformer",
-        "cmstead.jsrefactor"
+        "cmstead.jsrefactor",
+        "esbenp.prettier-vscode"
     ]
 }
