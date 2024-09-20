@@ -1,0 +1,1 @@
+mongodb+srv://absiniyaa:B123.com@cluster0.qeagg2y.mongodb.net/absiniyaa?retryWrites=true&w=majority&appName=Cluster0
