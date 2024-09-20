@@ -9,8 +9,8 @@ const data = {
             countInStock: 10,
             brand: 'Sumsung',
             rating:4.5,
-            numreviewa:10,
-            decription: 'high quality Mobile'
+            numReviews:10,
+            description: 'high quality Mobile'
         },
         {
             name: 'zte ultra',
@@ -21,8 +21,8 @@ const data = {
             countInStock: 10,
             brand: 'zte',
             rating:4.5,
-            numreviewa:10,
-            decription: 'high quality mobile'
+            numReviews:4,
+            description: 'high quality mobile'
         },
         {
             name: 'Iphone ultra',
@@ -33,8 +33,8 @@ const data = {
             countInStock: 10,
             brand: 'Apple',
             rating:4.5,
-            numreviewa:10,
-            decription: 'high quality Mobile camera'
+            numReviews:9,
+            description: 'high quality Mobile camera'
         },
         {
             name: 'Huwawei ultra',
@@ -45,8 +45,8 @@ const data = {
             countInStock: 10,
             brand: 'Huwawei',
             rating:4.5,
-            numreviewa:10,
-            decription: 'high quality Mobile camera'
+            numReviews:11,
+            description: 'high quality Mobile camera'
         },
     ],
 };
