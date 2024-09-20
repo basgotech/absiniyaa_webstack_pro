@@ -6,7 +6,7 @@ const data = {
             category: 'cellphone',
             image: '/images/p1.jpg',
             price: 1200,
-            countInStock: 10,
+            countInStock: 0,
             brand: 'Sumsung',
             rating:4.5,
             numReviews:10,
