@@ -1,7 +1,23 @@
+import bcrypt from 'bcryptjs';
+
 const data = {
+    users: [
+        {
+          name: 'Basliel',
+          email: 'basliel@gmail.com',
+          password: bcrypt.hashSync('123456'),
+          isAdmin: true,
+        },
+        {
+          name: 'aman',
+          email: 'aman@gmail.com',
+          password: bcrypt.hashSync('123456'),
+          isAdmin: false,
+        },
+      ],
     products: [
         {
-            _id: '1',
+            //_id: '1',
             name: 'Samsung ultra',
             slug: 'Samsung-max',
             category: 'cellphone',
@@ -14,7 +30,7 @@ const data = {
             description: 'high quality Mobile'
         },
         {
-            _id: '2',
+            //_id: '2',
             name: 'zte ultra',
             slug: 'zte-max',
             category: 'cellphone',
@@ -27,7 +43,7 @@ const data = {
             description: 'high quality mobile'
         },
         {
-            _id: '3',
+            //_id: '3',
             name: 'Iphone ultra',
             slug: 'Iphone-max',
             category: 'cellphone',
@@ -40,7 +56,7 @@ const data = {
             description: 'high quality Mobile camera'
         },
         {
-            _id: '4',
+            //_id: '4',
             name: 'Huwawei ultra',
             slug: 'Huwawei-max',
             category: 'cellphone',
