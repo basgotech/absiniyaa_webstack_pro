@@ -77,7 +77,7 @@ This page allows users to add selected products to their shopping cart. It shows
 - Button to view the shopping cart.
 
 ### Screenshot
-![Add to Cart Page](screenshots/add-to-cart.png)
+![Add to Cart Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/4%20add%20to%20cart.webp)
 
 ---
 
