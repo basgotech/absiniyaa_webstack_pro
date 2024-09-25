@@ -146,7 +146,7 @@ The order preview page displays a summary of the products the user intends to pu
 - Option to edit cart items before confirming the order.
 
 ### Screenshot
-![Order Preview Page](screenshots/order-preview.png)
+![Order Preview Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/8%20priview%20order.webp)
 
 ---
 
@@ -160,7 +160,7 @@ The payment method page allows users to select their preferred payment option fo
 - Selection of saved payment methods.
 
 ### Screenshot
-![Payment Method Page](screenshots/payment-method.png)
+![Payment Method Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/7%20payment%20method.webp)
 
 ---
 
