@@ -49,7 +49,7 @@ The sign-up page enables new users to create an account by providing their email
 - Successful registration redirects users to the login page.
 
 ### Screenshot
-![Sign Up Page](screenshots/sign-up.png)
+![Sign Up Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/16%20sigup.webp)
 
 ---
 
