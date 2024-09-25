@@ -230,7 +230,7 @@ The admin dashboard provides tools for managing products, orders, and users. Adm
 - Access control for admin functionalities.
 
 ### Screenshot
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/12%20admin%20dash%20board.webp)
 
 ---
 
@@ -244,7 +244,7 @@ This page allows admins to view and manage the list of products available on the
 - Add new products to the catalog.
 
 ### Screenshot
-![Product List Page](screenshots/product-list.png)
+![Product List Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/13%20product%20list.webp)
 
 ---
 
@@ -258,7 +258,7 @@ This page is displayed when a user’s shopping cart is empty. It encourages use
 - Suggestions for popular products.
 
 ### Screenshot
-![Empty Shopping Cart Page](screenshots/empty-shopping-cart.png)
+![Empty Shopping Cart Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/17%20empty%20shopping%20cart.webp)
 
 ---
 
@@ -272,7 +272,7 @@ The application uses MongoDB for storing user information, product details, orde
 - Secure storage of sensitive information.
 
 ### Screenshot
-![Database Integration](screenshots/database-integration.png)
+![Database Integration](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/18%20mongodb%20databse.webp)
 
 ---
 
@@ -286,7 +286,7 @@ Postman is used for testing and validating the API endpoints. It ensures that th
 - Automated testing with Postman collections.
 
 ### Screenshot
-![Postman API Validation](screenshots/postman-api-validation.png)
+![Postman API Validation](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/19%20postman%20app%20for%20validation%20of%20project.webp)
 
 ---
 
