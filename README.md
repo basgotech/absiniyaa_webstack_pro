@@ -91,7 +91,7 @@ The cart table page displays all the products added to the user's cart. It inclu
 - Removal of items from the cart.
 
 ### Screenshot
-![Cart Table Page](screenshots/cart-table.png)
+![Cart Table Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/5%20cart%20table.webp)
 
 ---
 
@@ -104,7 +104,7 @@ This functionality allows users to remove items from their cart. Users can delet
 - Real-time cart update without reloading the page.
 
 ### Screenshot
-![Remove from Cart Page](screenshots/remove-from-cart.png)
+![Remove from Cart Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/17%20empty%20shopping%20cart.webp)
 
 ---
 
