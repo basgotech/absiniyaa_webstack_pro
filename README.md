@@ -63,7 +63,7 @@ The home page displays a curated selection of products and categories. Users can
 - Quick access to product categories.
 
 ### Screenshot
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/1%20Home%20page.webp)
 
 ---
 
