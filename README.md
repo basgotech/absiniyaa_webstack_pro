@@ -174,7 +174,7 @@ This screen is used to enter payment details and confirm the order. Users can re
 - Order confirmation.
 
 ### Screenshot
-![Order Payment Screen](screenshots/order-payment.png)
+![Order Payment Screen](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/9%20order%20payment%20screen.webp)
 
 ---
 
@@ -188,7 +188,7 @@ Users can use PayPal to complete their transactions securely. This page redirect
 - Automatic update of order status upon successful payment.
 
 ### Screenshot
-![PayPal Integration](screenshots/paypal-integration.png)
+![PayPal Integration](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/10%20paypal%20integration.webp)
 
 ---
 
