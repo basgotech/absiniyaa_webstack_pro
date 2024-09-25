@@ -202,7 +202,7 @@ Users can enter their credit card details to make payments. The page ensures sec
 - Option to save card information for future use.
 
 ### Screenshot
-![Credit Card Payment Option](screenshots/credit-card-payment.png)
+![Credit Card Payment Option](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/11%20pay%20with%20credit%20option.webp)
 
 ---
 
@@ -216,7 +216,7 @@ Users enter their shipping address and other relevant details on this page. This
 - Validation of address fields.
 
 ### Screenshot
-![Shipping Information Page](screenshots/shipping-information.png)
+![Shipping Information Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/6%20shipping%20information.webp)
 
 ---
 
