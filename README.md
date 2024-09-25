@@ -118,7 +118,7 @@ The search product page enables users to find specific products by entering keyw
 - Filters for narrowing down search results.
 
 ### Screenshot
-![Search Product Page](screenshots/search-product.png)
+![Search Product Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/2%20search%20product.webp)
 
 ---
 
@@ -132,7 +132,7 @@ When a product is unavailable, the user is notified with an "Out of Stock" messa
 - Option to notify users when the product is back in stock.
 
 ### Screenshot
-![Out of Stock Page](screenshots/out-of-stock.png)
+![Out of Stock Page](https://github.com/basgotech/absiniyaa_webstack_pro/blob/master/frontend/public/images/Readme%20Images/3%20out%20of%20stck.webp)
 
 ---
 
